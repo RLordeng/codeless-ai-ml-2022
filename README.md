@@ -72,3 +72,6 @@ and use the Scatter Plot to visualize the relationship between Age group and the
 <p float="left">
  <img src="img/6.png" alt="image" width="50%"/> 
 </p>
+
+## Author
+RANA LORDENG
